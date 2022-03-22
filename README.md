@@ -1,2 +1,1 @@
-# KFICO
-Deploys Kubeflow via Intersight Cloud Orchestrator
+# Deploy Kubeflow via Intersight Cloud Orchestrator
